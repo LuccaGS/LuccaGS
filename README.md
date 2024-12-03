@@ -3,7 +3,7 @@
 
 <!--  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuccaGS&hide=contribs,prs) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGS&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGS&hide=javascript,html)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
