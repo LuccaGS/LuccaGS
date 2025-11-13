@@ -6,6 +6,7 @@
 **`Cursando Engenharia de Software`**
 
 ---
+
 ### 🤖Linguaguens e Tecnologias
 
 
@@ -73,7 +74,6 @@
 ---
 
 ### 🤖 Estatísticas
-
 
 <p>
   <img 
