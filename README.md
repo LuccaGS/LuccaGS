@@ -88,7 +88,7 @@
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccaGS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luccaGS&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9&token=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" 
   />
 
 </p>
