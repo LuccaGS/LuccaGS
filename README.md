@@ -9,8 +9,9 @@
 
 ## 🚀 Sobre Mim
 
-Sou estudante de Tecnologia da Informação, focado no desenvolvimento de software e na construção de projetos práticos.  
-Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a oportunidades de aprendizado e crescimento profissional.
+Sou estudante de Análise e Desenvolvimento de Sistemas, com foco no desenvolvimento de software e na construção de projetos práticos que consolidem conhecimento técnico e experiência real.
+
+Busco aprimoramento contínuo das minhas habilidades em programação, engenharia de software e resolução de problemas, mantendo disciplina nos estudos e evolução constante. Estou aberto a oportunidades que proporcionem aprendizado, desafios técnicos e crescimento profissional.
 
 ## 📫 Conecte-se comigo
 
