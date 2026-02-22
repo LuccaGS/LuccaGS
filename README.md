@@ -1,94 +1,63 @@
-### João Lucca 
+# 👨🏻‍💻 João Lucca Gomes Silvestre
 
-
-## 👨🏻‍💻 João Lucca
-
-**`Cursando Engenharia de Software`**
-
----
-
-### 🤖Linguaguens e Tecnologias
-
-
-<img
-    align = left
-    alt = "HTML"
-    title = "HTML"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-
-<img 
-    align = left
-    alt = "CSS"
-    title = "CSS"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-           
-
-<img 
-    align = left
-    alt = "JavaScript"
-    title = "JavaScript"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg" 
-/>
-          
-
-<img  
-    align = left
-    alt = "Python"
-    title = "Python"
-    width = "30px"  
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
-/>            
-          
-
-<img
-    align = left
-    alt = "MySQL"
-    title = "MySQL"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg" 
-/>            
-          
-
-<img 
-    align = left
-    alt = "GitHub"
-    title = "gitHub"
-    width = "30px"
-    style = "padding-right: 10px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-/>    
-
-<br/>
-<br/>
+🎓 Cursando Análise e Desenvolvimento de Sistemas  
+💻 Focado em Desenvolvimento de Software  
+🚀 Em constante evolução
 
 ---
 
-### 🤖 Estatísticas
 
-<p>
+## 🚀 Sobre Mim
+
+Sou estudante de Tecnologia da Informação, focado no desenvolvimento de software e na construção de projetos práticos.  
+Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a oportunidades de aprendizado e crescimento profissional.
+
+## 📫 Conecte-se comigo
+
+🔗 [LinkedIn](linkedin.com/in/joão-lucca-gomes-280327387)
+
+---
+
+## 🛠 Tecnologias
+
+<p align="center">
+  <img alt="HTML" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
+  <img alt="CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/>
+  <img alt="JavaScript" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"/>
+  <img alt="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
+  <img alt="Git" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+  <img alt="GitHub" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"/>
+</p>
+
+---
+
+## 📊 Estatísticas do Perfil
+
+<p align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=LuccaGS&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimaraes03&theme=tokyonight"
   />
+</p>
 
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaGS&theme=tokyonight&layout=compact&custom_title=Tecnologias" 
+---
+
+## 💻 Linguagens Mais Utilizadas
+
+<p align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guimaraes03&theme=tokyonight"
   />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guimaraes03&theme=tokyonight"
+  />
+</p>
 
+---
+
+## 🔥 Sequência de Contribuições
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=guimaraes03&theme=tokyonight"
+  />
 </p>
