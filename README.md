@@ -35,7 +35,7 @@ Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a opo
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=guimaraes03&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=LuccaGS&theme=tokyonight"
   />
 </p>
 
@@ -45,10 +45,10 @@ Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a opo
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guimaraes03&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuccaGS&theme=tokyonight"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=guimaraes03&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuccaGS&theme=tokyonight"
   />
 </p>
 
@@ -58,6 +58,6 @@ Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a opo
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=guimaraes03&theme=tokyonight"
+    src="https://streak-stats.demolab.com?user=LuccaGS&theme=tokyonight"
   />
 </p>
