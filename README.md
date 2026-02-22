@@ -45,10 +45,10 @@ Busco constantemente aprimorar minhas habilidades técnicas e estou aberto a opo
 
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LuccaGS&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luccags&theme=tokyonight"
   />
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LuccaGS&theme=tokyonight"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luccags&theme=tokyonight"
   />
 </p>
 
